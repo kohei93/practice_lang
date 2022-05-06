@@ -1,0 +1,86 @@
+/*=======================================
+リセット
+=======================================*/
+
+html,body,ul,ol,dl,li,dt,dd,p,div,span,img,a,table,tr,th,td {
+  border : 0;
+  font-size : 100%;
+  font-weight : normal;
+  margin : 0;
+  padding : 0;
+}
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #ccc;
+  background-image: url("./img/a.jpeg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+}
+a{
+  color: #f01;
+}
+a:link{
+  color: aliceblue;
+}
+a:visited{
+  color: #002b99;
+}
+a:hover{
+  color: #004;
+}
+a:active{
+  color: #008;
+}
+
+
+img{
+  vertical-align: middle;
+  border: 9px solid rgb(2, 2, 253);
+  border-style: dashed;
+  border-bottom: 13px dotted rgb(0, 153, 77);
+}
+h2{
+  color: #f00; 
+  font-size: 80px;
+  font-weight: normal;
+}
+.iii{
+  font-style: italic;
+}
+h1{
+  color: #002b99;
+  font-size: 150%;
+  font-weight: bold;
+}
+h3{
+  color: #002b99; 
+  font-size: 150%;
+  font-weight: lighter;
+}
+p{
+  color: #323;
+  display: table;
+}
+
+span{
+  display: table-cell;
+  vertical-align: middle;
+}
+.shadow{
+  box-shadow: 3px 3px 9px rgb(217, 255, 0);
+}
+
+
+article,header,footer,aside,figure,figcaption,nav,section {
+  display : block;
+}
+
+body {
+  line-height : 1;
+}
+
+ol,ul {
+  list-style : none;
+  list-style-type : none;
+}
