@@ -1,0 +1,15 @@
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/Users/koheinatsume/Desktop/practice_lang/C#/bin/Debug/net6.0/C#
+/Users/koheinatsume/Desktop/practice_lang/C#/bin/Debug/net6.0/C#.deps.json
+/Users/koheinatsume/Desktop/practice_lang/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/Users/koheinatsume/Desktop/practice_lang/C#/bin/Debug/net6.0/C#.dll
+/Users/koheinatsume/Desktop/practice_lang/C#/bin/Debug/net6.0/C#.pdb
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.dll
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/refint/C#.dll
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.pdb
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/Users/koheinatsume/Desktop/practice_lang/C#/obj/Debug/net6.0/ref/C#.dll
